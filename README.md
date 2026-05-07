@@ -4,7 +4,7 @@ This repository contains the official digital services catalog and price guide f
 
 ## 🚀 Live Catalog
 You can view the live, interactive catalog here: 
-**[INSERT YOUR GITHUB PAGES URL HERE]**
+**[http://fiven-catalog.github.co.zw/]**
 
 ## 🛠️ Services Offered
 * **Monthly Retainer Packages:** Silver, Gold, Platinum, and Diamond tiers.
